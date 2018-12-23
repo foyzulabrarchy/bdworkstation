@@ -1,0 +1,5 @@
+1. Need changes in login and sign up activity. There should be an option for new commer to get a direct access to the sign up activity. Same for sign up activity.
+
+2. When I press on login, the activity appears that fine but when I press signup it kept the previous activity. You can find it by clicking login and signup one by one. Then press cross on the activity. You will see there was an activity still running from previous click. 
+
+I don't know about that but this might be done using js and if this can be done from your side, do it.

@@ -1,0 +1,59 @@
+
+/* === CTA Section, Social & Partners === */
+#partners-section, #social-section {
+	background: #f8f8f8 url('../../img/pat-bg.png') repeat;
+}
+
+/* === Contact === */
+#contact-section {
+	background-color: #363940;
+}
+#contact-section .contact .contact-form button {
+	background-color: #363940;
+}
+#contact-section .contact .contact-form button:hover {
+	background-color: #676D75;
+}
+
+
+
+/* === Footer === */
+.footer-top {
+	background-color: #363940;
+}
+.footer {
+	background-color: #2d3035;
+}
+#subscribe > button[type="submit"] {
+    background: none repeat scroll 0 0 #676D75;
+}
+#subscribe > button[type="submit"]:hover {
+    background: none repeat scroll 0 0 #111;
+}
+
+
+/* === Buttons === */
+.btn-default, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active { 
+	background: #363940;
+	color: #fff;
+}
+.btn-default:hover {
+	color: #fff;
+	background: #676D75;
+}
+.btn-primary, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
+	background-color: #3078B3;
+	color: #FFF;
+}
+.btn-primary:hover {
+	background-color: #1867A8;
+	color: #FFF;
+}
+.btn-danger, .btn-danger:focus, .btn-danger.focus, .btn-danger:active, .btn-danger.active {
+	background-color: #E7392D;
+	color: #FFF;
+}
+.btn-danger:hover {
+	background-color: #D81508;
+	color: #FFF;
+}
