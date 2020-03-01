@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nesbot/carbon": "^2.14",
+        "pusher/pusher-php-server": "^4.0"
+    }
+}
